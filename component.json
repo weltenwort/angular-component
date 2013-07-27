@@ -1,0 +1,11 @@
+{
+    "name": "angular",
+    "repo": "weltenwort/angular-component",
+    "description": "angular js",
+    "version": "1.1.5",
+    "license": "MIT",
+    "scripts": [
+        "index.js",
+        "angular.js"
+    ]
+}
